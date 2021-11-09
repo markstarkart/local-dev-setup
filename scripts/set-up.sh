@@ -35,6 +35,7 @@ else
     brew install --cask alfred
     brew install --cask handbrake
     brew install --cask slack
+    brew install brew-cask-completion
     brew install git
     brew install yarn
     brew install awscli
